@@ -14,8 +14,7 @@ def run():
     
     except ValueError:
         print("Please enter a valid value.")
-    except Exception:
-        print("Please enter a valid number")
+    
 
 if __name__ == "__main__":
     run()
